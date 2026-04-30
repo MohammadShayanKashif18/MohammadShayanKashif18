@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Shayan Kashif
 
-### Full-Stack Developer | Software Engineer Graduate | AI & Agentic RAG Specialist
+### Full-Stack Developer | Software Engineer Graduate | AI & Agentic RAG Specialist | AI Enthusiast
 📧 [kashifshayan77@gmail.com](mailto:kashifshayan77@gmail.com) • [LinkedIn](https://www.linkedin.com/in/shayan-kashif-550555268/) • [GitHub](https://github.com/MohammadShayanKashif18)
 
 ---
